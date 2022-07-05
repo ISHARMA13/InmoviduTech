@@ -1,4 +1,4 @@
-## Artificial Intelligence with Python:feagsgs
+## Artificial Intelligence with Python:
 
 #### What we learned?
 The training started with Python, then exploring its libraries (numpy, pandas, matplotlib, sklearn, tensorflow, pytorch). 
